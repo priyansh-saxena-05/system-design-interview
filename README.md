@@ -9,7 +9,7 @@ For system design knowledge, please find [system-design-knowledge](https://githu
 ## Problems
 | Problem | Examples |
 |----|----|
-| [Build URL Shortening System](problems/Build_URL_Shortening_System.md) | <li>TinyUrl |
+| [Build URL Shortening System](problems/Build_URL_Shortening_System.md) | <li>TinyUrl | 
 | [Build Messaging System](problems/Build_Messaging_System.md) | <li>Facebook Chat<li>Whatapp<li>Slack |
 | [Build Video Distribution System](problems/Build_Video_Distribution_System.md) | <li>Youtube<li>Netflix<li>Vimeo |
 | [Build Photo Sharing System](problems/Build_Photo_Sharing_System.md) | <li>Instagram<li>Flickr<li>Picasa |
@@ -27,7 +27,7 @@ For system design knowledge, please find [system-design-knowledge](https://githu
 ## Presentation
 | Topic | Source 1 | Source 2 |
 |----|----|----|
-| Scaling Instagram Infrastructure | [InfoQ](https://www.infoq.com/presentations/instagram-scale-infrastructure/) | [Youtube](https://www.youtube.com/watch?v=hnpzNAPiC0E) |
+| Scaling Instagram Infrastructure | [InfoQ](https://www.infoq.com/presentations/instagram-scale-infrastructure/) | [Youtube](https://www.youtube.com/watch?v=hnpzNAPiC0E) | [Medium] (https://nikhilgupta1.medium.com/instagram-system-design-f62772649f90)
 | How Slack Works | [InfoQ](https://www.infoq.com/presentations/slack-infrastructure/) | [Youtube](https://www.youtube.com/watch?v=WE9c9AZe-DY) |
 | Scaling Slack - The Good, the Unexpected, and the Road Ahead | [InfoQ](https://www.infoq.com/presentations/slack-scalability-2018/) | [Youtube](https://www.youtube.com/watch?v=_M-oHxknfnI) |
 | Scaling Slack | [InfoQ](https://www.infoq.com/presentations/slack-scalability/) | [Youtube](https://www.youtube.com/watch?v=x1Uz3rMlOBo) |
